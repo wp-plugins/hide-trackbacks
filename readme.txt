@@ -9,7 +9,7 @@ Stops trackbacks and pingbacks from showing up as comments on posts.
 
 == Description ==
 
-Introducing *Hide Trackbacks*. You can have the benefits of track/ping backs (know when someone writes about posts) whilst keeping the comments clean and uncluttered.
+Introducing *Hide Trackbacks*. You can have the benefits of track/ping backs (know when someone writes about posts) whilst keeping the comments clean and uncluttered. 
 
 After enabling the plugin, trackbacks and pingbacks are no longer shown on your posts and the comment count is updated correctly to reflect this. You can still access them via the admin panel. NOTE: Although the plugin officially requires WordPress 3.1.2 it might very well work on older WordPress versions (if it does please let me know).
 
