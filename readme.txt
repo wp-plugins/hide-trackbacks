@@ -2,7 +2,7 @@
 Contributors: pacifika
 Tags: comments, trackbacks, pingbacks, trackback, spam
 Requires at least: 3.1.2
-Tested up to: 3.3.1
+Tested up to: 3.8.1
 Stable tag: 1.0.2
 
 Stops trackbacks and pingbacks from showing up as comments on posts. 
