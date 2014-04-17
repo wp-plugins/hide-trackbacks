@@ -5,23 +5,23 @@ Plugin URI: http://wp.me/p1vXha-4u
 Description: Stops trackbacks and pingbacks from showing up as comments on your posts.
 Version: 1.0.2
 Author: Sander van Dragt
-Author URI: http://amasan.co.uk/blog
+Author URI: http://vandragt.com
 License: GPL2
 
-	  Copyright 2011  Sander van Dragt  (email : sander.vandragt@gmail.com)
+	  Copyright 2014  Sander van Dragt  (email : sander@vandragt.com)
 
-    This program is free software; you can redistribute it and/or modify
-    it under the terms of the GNU General Public License, version 2, as 
-    published by the Free Software Foundation.
+	This program is free software; you can redistribute it and/or modify
+	it under the terms of the GNU General Public License, version 2, as 
+	published by the Free Software Foundation.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License for more details.
+	This program is distributed in the hope that it will be useful,
+	but WITHOUT ANY WARRANTY; without even the implied warranty of
+	MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+	GNU General Public License for more details.
 
-    You should have received a copy of the GNU General Public License
-    along with this program; if not, write to the Free Software
-    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
+	You should have received a copy of the GNU General Public License
+	along with this program; if not, write to the Free Software
+	Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 
 	Derived from original code by:
   Honey Singh 
